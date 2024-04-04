@@ -10,7 +10,7 @@ Contributed to an open source project for the first time can be a scary thing. T
 
 ### Try the live version of the game: https://ollelauribostrom.github.io/rebus/
 
-## Who can contribute?
+## Who can contribute
 
 Everyone can!(and I mean everyone) 💫
 
